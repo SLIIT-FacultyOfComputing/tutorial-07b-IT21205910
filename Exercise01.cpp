@@ -5,6 +5,7 @@ using namespace std;
 // DO NOT CHANGE THIS CODE
 
 int main() {
+    
     Item myItem;
     myItem.display();
     Item myItem2(100, 1000);
@@ -15,4 +16,3 @@ int main() {
 }
 
 // DO NOT CHANGE ABOVE CODE
-
